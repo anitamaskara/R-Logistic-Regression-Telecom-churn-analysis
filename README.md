@@ -8,7 +8,7 @@ Data Details: The dataset given had 86 attributes of 66297 records, each describ
 their demographic information and the status of their subscription. The churn is captured as 1 for customers that have churned and as 0 for
 customers who continue with their subscription.  
 
-Techniques Used: Exploratory Data Analysis, Missing data treatment, Outlier treatment, Derived variables, multiple iterations of logistic regression.
+Techniques Used: Exploratory Data Analysis, Missing data treatment, Outlier treatment, Derived variables, multiple iterations of logistic regression, validating the model using ROC Curve, Gainschart, Confusion matrix
 
 Objective:
 - Identify top factors driving likelihood of churn
